@@ -1,6 +1,6 @@
-# Project Name
+# Picture view component proxy
 
-> Project description
+Create proxy for the picture view component of AirBnB site mimic
 
 ## Related Projects
 
