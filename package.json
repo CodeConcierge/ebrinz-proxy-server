@@ -1,17 +1,27 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
+  "name": "ebrinz-proxy-server",
+  "description": "Create proxy for the picture view component of AirBnB site mimic",
   "author": "",
-  "license": "",
+  "license": "ISC",
   "engines": {
     "node": ">=6.13.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
-  }
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeConcierge/ebrinz-proxy-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodeConcierge/ebrinz-proxy-server/issues"
+  },
+  "homepage": "https://github.com/CodeConcierge/ebrinz-proxy-server#readme"
 }
