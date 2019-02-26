@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  picture-viewer-proxy:
+    build: .
+    ports: 
+      - '80:3000'
